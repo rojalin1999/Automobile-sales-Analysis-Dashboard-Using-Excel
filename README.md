@@ -61,3 +61,5 @@ Sales show noticeable seasonal trends across months.
 Certain regions generate significantly higher revenue.
 A specific vehicle category delivers higher profitability.
 This dashboard supports data-driven decision-making and strategic sales planning.
+# Conclusion
+<img width="1317" height="537" alt="Image" src="https://github.com/user-attachments/assets/fe9c030c-1cd3-4d91-a79e-13eebb9cb5f3" />
